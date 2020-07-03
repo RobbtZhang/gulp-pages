@@ -1,0 +1,36 @@
+{
+  "name": "gulp-pages",
+  "version": "0.1.0",
+  "description": "static web app workflow",
+  "keywords": [
+    "gulp-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/zce/gulp-pages#readme",
+  "bugs": {
+    "url": "https://github.com/zce/gulp-pages/issues"
+  },
+  "license": "MIT",
+  "author": "张应生 <652057507@qq.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zce/gulp-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
